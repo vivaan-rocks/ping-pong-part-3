@@ -1,0 +1,22 @@
+body
+{
+    background-image:linear-gradient(green,yellow);
+    background-position: center;
+    background-size: cover;
+}
+.Instructions{
+    float: right;
+}
+h3{
+    width: 100%;
+}
+.play{
+    float:inherit;
+}
+.modal-content{
+    background-image: linear-gradient(red,blue);
+    color: wheat;
+}
+.close{
+    color: black;
+}
